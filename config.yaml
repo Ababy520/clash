@@ -13,7 +13,7 @@ profile:
   store-fake-ip: true
 
 sniffer:
-  enable: false
+  enable: true
   sniff:
     TLS:
       ports: [443, 8443]
