@@ -62,7 +62,7 @@ proxy-providers:
 
   百度直连:
     <<: *http
-    path: https://zws.im/󠁳󠁺󠁡󠁫󠁶󠁵󠁸
+    url: https://zws.im/󠁳󠁺󠁡󠁫󠁶󠁵󠁸
 
 proxy-groups:
   - name: 国内
