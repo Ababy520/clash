@@ -18,7 +18,6 @@ payload:
   - DST-PORT,389
   - DST-PORT,443
   - DST-PORT,445
-  - DST-PORT,465
   - DST-PORT,500
   - DST-PORT,548
   - DST-PORT,554
